@@ -1,4 +1,4 @@
 class Usuario {
-    String email;
-    String senha;
+    private String email;
+    private String senha;
 }
